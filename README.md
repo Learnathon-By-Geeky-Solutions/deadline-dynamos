@@ -32,14 +32,14 @@ PresKibo employs advanced security measures to protect data and ensure system in
    
 ## Implemented various security measures:
 
--Login Security: Password hashing (SHA3-256), secure sessions, email notifications, SQL injection prevention.
--Backup Script Security: Sensitive info config, input validation, secure backup paths, error logging.
--App Security: Secure sessions, PDO for SQL, HTTPS, CSP, vulnerability testing.
--Session & SQL Injection Prevention: Secure sessions, SQL injection prevention.
--Privacy Functions: Email masking.
--Email: PHPMailer for secure email.
--DB Security: Password hashing, limited permissions, secure backups.
--DB Autobackup: Data validation, user access control, SSL/TLS encryption.
+1. Login Security: Password hashing (SHA3-256), secure sessions, email notifications, SQL injection prevention.
+2. Backup Script Security: Sensitive info config, input validation, secure backup paths, error logging.
+3. App Security: Secure sessions, PDO for SQL, HTTPS, CSP, vulnerability testing.
+4. Session & SQL Injection Prevention: Secure sessions, SQL injection prevention.
+5. Privacy Functions: Email masking.
+6. Email: PHPMailer for secure email.
+7. DB Security: Password hashing, limited permissions, secure backups.
+8. DB Autobackup: Data validation, user access control, SSL/TLS encryption.
 
 
 ## Technologies Used
