@@ -29,6 +29,8 @@ PresKibo employs advanced security measures to protect data and ensure system in
 3. Two-Step Verification.
 4. Secure Data Encryption.
 5. Secure File Transfer Protocols.
+   
+## Implemented various security measures:
 
 -Login Security: Password hashing (SHA3-256), secure sessions, email notifications, SQL injection prevention.
 -Backup Script Security: Sensitive info config, input validation, secure backup paths, error logging.
