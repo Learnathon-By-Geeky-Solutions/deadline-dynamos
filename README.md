@@ -13,8 +13,6 @@
 PresKibo is a cutting-edge PHP-based web application meticulously designed to streamline hospital operations and improve healthcare delivery. With its intuitive and user-friendly interface, the system empowers both healthcare providers and patients, ensuring seamless interactions and efficient management of medical processes.
 
 ## Features
-
-## Appointment Scheduling:
 1. Patients can book appointments effortlessly.
 2. Doctors have the ability to approve or reject appointments for reschedule.
 3. Medical Records Management: Secure tracking and organization of patient medical records for authorized access.
