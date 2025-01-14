@@ -1,7 +1,7 @@
 # deadline-dynamos
 
 ## Team Members
-- labibazad191 (Team Leader)
+- [labibazad191](https://www.linkedin.com/in/labib-azad-0822441b0/) (Team Leader)
 - rakibii
 - rasheduiu
 
